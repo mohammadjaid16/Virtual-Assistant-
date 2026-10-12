@@ -1,0 +1,1 @@
+this file contains the all the recources information related to the project
